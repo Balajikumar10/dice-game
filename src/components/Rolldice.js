@@ -127,7 +127,7 @@ const Rolldice = ({ sides }) => {
                             </TableCell>
                             <TableCell sx={{ border: 1 }} align="right">Penalty attempts
                             </TableCell>
-                            <TableCell sx={{ border: 1 }} align="right"> Total Earned points
+                            <TableCell sx={{ border: 1 }} align="right"> Total points
                             </TableCell>
                         </TableRow>
                     </TableHead>
